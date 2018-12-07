@@ -15,10 +15,6 @@ $ sudo pip install -r requirements.txt
 $ sudo pip install mitmproxy==0.18.2
 ```
 
-
-### Transparent Proxy
-![proxy](https://raw.githubusercontent.com/P0cL4bs/WiFi-Pumpkin/master/docs/proxyscenario.png)
-
  Transparent proxies(mitmproxy) that you can use to intercept and manipulate HTTP traffic modifying requests and responses, that allow to inject javascripts into the targets visited.  You can easily implement a module to inject data into pages creating a python file in directory "plugins/" automatically will be loaded.
 #### Plugins Example Dev
 
